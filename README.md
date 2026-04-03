@@ -4,7 +4,7 @@ I'm a 17 brazilain developer that scripts for fun.
 ## About me
 - I script on roblox studio for over 3 years
 - I have begnners knowlage on C++ / C, Webdevelopment (html, css, javaScript / typeScript, react)
-- I like  touhou, project moon, persona (3,2,1), ace attorney, etc.
+- I like  touhou, project moon, persona (3,4,5), ace attorney, etc.
   
 ![aww](https://github.com/user-attachments/assets/0f33ffcb-e8bc-4606-b0c8-abb953e14a69)
 
